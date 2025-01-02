@@ -1,0 +1,156 @@
+site_name: Digital Torah Insights
+site_description: Local resource for equipping you with the skills and knowledge needed to excel in today’s tech-driven world
+site_url: http://digital-torah-insights.snakewizardd.github.io
+repo_url: https://github.com/snakewizardd/digital-torah-insights
+repo_name: snakewizardd/digital-torah-insights
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  features:
+    #- navigation.indexes
+    - content.tooltips
+    - navigation.sections
+    #- navigation.expand 
+    - navigation.top
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate 
+    - content.tooltips
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes 
+    - toc.follow
+    #- toc.integrate
+    - navigation.footer
+
+  logo: assets/logo.png 
+  favicon: assets/images/logo.ico
+  palette: 
+    #primary: custom
+    # Palette toggle for light mode
+    - scheme: default 
+      #primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate 
+      #primary: custom
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  custom_dir: overrides
+   
+plugins:
+  - search
+  - blog:
+      blog_toc: true 
+      archive: false 
+      authors: true 
+      authors_profiles: true
+      authors_profiles_toc: true
+
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Chassidut
+        - Halacha 
+      pagination_per_page: 5
+  - tags:
+        tags_file: tags.md 
+        tags_hierarchy: true
+
+  - social: 
+      cards: true
+
+
+  - git-revision-date-localized
+  - git-committers:
+      repository: snakewizardd/digital-torah-insights
+      branch: main
+  #- git-authors
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      name: snakewizardd on Github
+      link: https://github.com/snakewizardd
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our site content and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our project better.
+hooks:
+  - hooks/socialmedia.py
+
+markdown_extensions:
+  - abbr
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.blocks.caption
+  - pymdownx.snippets
+
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+    #- What We Offer: what-we-offer.md
+  #- Services: services.md
+  #- Getting Started: getting-started.md
+  #- Resources: 
+  #  - Introduction to Computer Programming: types-of-programming.md
+  #  - Learning to Code - First Steps: beginning-to-code.md
+  #  - Self-Hosting - Empowering You with Control and Privacy: self-hosting.md
+  - Blog:
+     - blog/index.md 
+  # - Contact: contact.md
+
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/extra.css
+
+copyright: >
+  Copyright &copy; 2024 Digital Torah Insights –
+  <a href="#__consent">Change cookie settings</a>
