@@ -13,7 +13,7 @@ hide:
 ___
 
 #### Latest Blog Posts:  
-- :new: [Likkutei Torah Parashat Beshalach](blog/posts/likutei-torah1.md)
+- :new: [Likkutei Torah Parashat Beshalach](blog/posts/likutei-torah1.md)  
 
 
 
