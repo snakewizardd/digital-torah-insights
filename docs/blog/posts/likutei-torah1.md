@@ -15,6 +15,9 @@ In this post we will go through the ma'amar in Likkutei Torah Parashat Beshalach
 
 ---
 
+## Opening Statements
+
+
 !!! tip "דיבור המתחיל"
      ראו כי ה׳ נתן לכם השבת וגו׳. במדרש תלים (סי׳ צ״ב) מהו ראו א״ר יצחק כל עיסקא דשבתא כפול. עומר כפול. שני העומר לאחד. קרבנו כפול. וביום השבת שני כבשים כו׳. אזהרותיה כפולות זכור ושמור כו׳. וברבות בשלח ס״פ כ״ה ששקולה שבת כנגד כל המצות כו׳ ע״ש.
 
@@ -41,6 +44,8 @@ And all her paths, peaceful.
 
 > Explanation:
     The *ma'amar* further refers to the Yerushalmi Talmud as backing for the source that Shabbat is corresponding to all the rest of the *mitzvot*. However, we now will pivot to the crux of the discussion of the *ma'amar*, which is directed as a understanding of the concept of the *nusach haberachot*. The specific *nusach* on *Shabbat* leads to a more fuller understanding of why the *Torah* and *mitzvot* are referred to as 'paths' or 'ways'.
+
+## The World To Come Is Created with Yud
 
 !!! tip "Cont."
     וכן ושמרו דרך הוי׳ כו׳. דהנה כתיב כי בי״ה ה׳ צור עולמים ביו״ד נברא העוה״ב כידוע. ויש להבין איך יתכן שום ציור אות למעלה כמו ציור אות יו״ד שבו נברא כו׳. שהרי אין שם גשם צורה ח״ו. אך הנה ידוע דביו״ד מאמרות נברא העולם כו׳.
@@ -77,3 +82,45 @@ ___
 
 > Explanation:
     In this paragraph the *ma'amar* mentions that according to (explained elsewhere) Kabbalistic and Chassidic sources, the root of the 10 statements that brought the world(s) into existence have their sources in *Chochma*, *Tevunah/Binah* and *Daat*, the upper three *Sefirot*, but the Rebbe cautions us to know that it is only through a great reduction of the *Ein Sof* light (tzimtzumim) that this is so. In truth, God is much loftier than those levels and is incomparable to any levels. A *pasuk* from *Tehillim* is brought to demonstrate that with *Chesed* the world was created, symbolizing the ten statements, and specifically through the elevation of *Mayin Nukvin*, lit. 'feminine waters' which refers to the arousal of divine light and abundance via the prior intercession from the lower worlds.
+
+
+!!! tip "Cont."
+    והנה כתיב כי עמך מקור חיים כו׳ פי׳ כי העוה״ב ידוע שהוא מה שהנשמות נהנין מזיו השכינה והנאה זו שנהנין אינו אלא ע״פ השגה שמשיגים באלקות דוקא כנראה בחוש שכל מי שאינו משיג השכל אינו נהנה ומתענג כלל כו׳.
+
+And behold it is written 'For with You is the source of life' (1), for regarding *Olama HaBah* it is known that it is what the *neshamot* benefit from the rays of the *Shechina*, and this benefit which they enjoy is only according to the comprehension that they comprehend in Godliness (*elokut*) specifically - as it is seen clearly (with the senses) that whoever does not comprehend intellectual matters does not have enjoyment at all.
+{ .annotate}
+
+1. [Tehillim 36:10](https://www.sefaria.org/Psalms.36.10-11?lang=bi) כִּֽי־עִ֭מְּךָ מְק֣וֹר חַיִּ֑ים בְּ֝אוֹרְךָ֗ נִרְאֶה־אֽוֹר׃ 
+With You is the fountain of life;
+by Your light do we see light. 
+
+> Explanation: 
+
+## Oneg in the Upper Worlds
+
+
+!!! tip "Cont."
+    וא״כ כבר בא העונג העליון האלקי לידי תפיסא להיות יש ודבר מה בהשגת הנשמות עד שנהנין ממש כו׳. וזהו מ״ש להנחיל אוהבי יש בחי׳ יש ממש כמ״ש במ״א. ובאמת בחי׳ גילוי עונג העליון הזה שירד כ״כ להיות יש ודבר כו׳ א״א כ״א ע״י צמצום גדול מאד מעצמות עונג העליון וכידוע. וזהו כי עמך מקור חיים פי׳ מקור כל התענוגים ומקור כל החיים שנהנין הנשמות עמך בעצמותך (וע׳ בזח״ג פ׳ צו דף ל״ד סע״א ובפ׳ אמור ק״א א׳, ובספר מג״ע פי׳ כי מקור חיים כחשבון אור א״ס) ואין לגילוי העונג הנמשך לנשמות ערך כלל עמך כי ע״י צמצום גדול ירד כנ״ל. וזהו ענין ביו״ד נברא העוה״ב פי׳ ע״י צמצום גדול דאות יו״ד עד״מ כתיבת היו״ד כנקודה קטנה כנ״ל. כמ״כ אופן המשכת העונג מן ההעלם לגילוי הנ״ל הוא מקור כל העולם הבא שנהנין הנשמות בו והיינו מפני שהוא כולל כל פרטי פרטיות התענוגים שמתענגים הנשמות על ה׳ בג״ע וזהו ביו״ד נברא כו׳.
+
+And if so, the godly *oneg* (pleasure) of the upper worlds has already come down into comprehension, that is to become a *yesh* (existing thing) and a separate entity, namely that which the *neshamot* will enjoy literally. This is what is referred to in the *pasuk* "To leave a *Yesh* inheritance for the ones who love me" (1), meaning literally a *yesh* (existing thing). And in truth, the concept of the revelation of this *oneg ha'elyon* that descended so much so that it became an existing thing and a separate entity - this could not occur unless for a very great *tzimtzum* (contraction [away from]) the *oneg ha'elyon* as it is known. This is then the meaning of כי עמך מקור חיים referring to the source of all the *ta'anugim* and the source of all the life that the *neshamot* enjoy from 'You' i.e. Your essence. 
+{ .annotate }
+
+1. [Mishlei 8:21](https://www.sefaria.org/Proverbs.8.21-22?lang=bi) לְהַנְחִ֖יל אֹהֲבַ֥י ׀ יֵ֑שׁ וְאֹצְרֹ֖תֵיהֶ֣ם אֲמַלֵּֽא׃ 
+I endow those who love me with substance;
+I will fill their treasuries.
+
+Note (from the Alter Rebbe): See the Zohar Part 3, Chapter 96 end of Page 34a, and in Parashat Emor Page 101a, and in the sefer מג״ע on the pasuk כי מקור חיים which enumerates to the value of the words אור א״ס.
+
+Thus, there is no comparison at all between the revealed *oneg* that is drawn down to the *neshamot* compared to that which remains 'With You' [God], since only with a great *tzimtzum* did that descend, as mentioned above. This is thus the concept that the *Yud* created *Olam Ha'Bah*, its interpretation being that through a great *tzimtzum*, namely that of the letter *Yud*, by means of an analogy the writing of the *Yud* is like a small point, as mentioned earlier, similarly the way the drawing down of *oneg* from a hidden to revealed state, as mentioned above, is the source of the entire *Olam Ha'Bah* which the *neshamot* enjoy. This is because it includes all of the specific types of *ta'anugim* that the *neshamot* take pleasure in with God in *Gan Eden* - this is the reference of 'With *Yud* the World to Come was created'.
+
+
+!!! tip "Cont" 
+    ובמ״א נתבאר כי הנה כל המשכה הוא ע״י שם הוי׳ היינו יו״ד צמצום ה׳ התפשטות וא״ו המשכה כו׳ היו״ד הוא צמצום שכדי להיות המשכה מאור אין סוף ב״ה שהוא בחי׳ מקור חיים כנ״ל צ״ל ע״י צמצום תחלה כדי שיוכלו לקבל וכמ״ש בת״א ס״פ לך לך בד״ה שרי אשתך כו׳
+
+And in another place it is explained that behold, all *hamshachot* (activities which draw down [divine light]) are through the name *Havaya* (Tetragrammaton), meaning that through *Yud* is *tzimtzum*, through *Hey* is expansion, and *Vav* drawing down (*hamshacha*) - the *Yud* is a *tzimtzum* so that there can be a drawing down from the light of blessed *Ein Sof*, which is the source of all life, as mentioned above. This must be specifically through a *tzimtzum* as first, so that the receiving entities should be able to receive (as explained in Torah Or, end of Parashat Lech Lecha in the *dibur hamatchil* *Sarai Ishtecha*(1))
+{ .annotate }
+
+1. [Source on Chabad.org](https://he.chabad.org/library/article_cdo/aid/5899143)
+
+
+___
