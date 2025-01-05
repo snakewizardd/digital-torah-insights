@@ -94,7 +94,7 @@ And behold it is written 'For with You is the source of life' (1), for regarding
 With You is the fountain of life;
 by Your light do we see light. 
 
-> Explanation: 
+> Explanation: Needs to be filled in.
 
 ## Oneg in the Upper Worlds
 
