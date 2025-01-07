@@ -215,5 +215,10 @@ It was also taught in a baraita with regard to the appreciation of life: Rabbi S
 
 > Explanation: In this section the Rebbe points out how the *Hey* is a further *tzimtzum*, for the *Yud*, *tzimtzum* results in the revelation of light (albeit in a comprehensible manner) and with the *Hey* the *tzimtzum* process results in further concealment. The Rebbe states multiple possible explanations for why we refer to the created universe(s) as '*Olam HaZeh*'. The Rebbe explains that all three of the 'worlds' *Beriah* , *Yetzirah* and *Asiyah* are likewise referred to as '*Olam Hazeh*'.
 
+
+!!! tip "Cont. "
+    והנה בחי׳ גילוי המשכה זו מן ההעלם בין ביו״ד שנברא בו העוה״ב להיות נהנין מזיו כו׳. בין בי״ע שבה״א בראם כו׳ שכדי להמשיך גילוי הה״א בבי״ע להיות עולם חסד יבנה וכמ״ש בהבראם באברהם הוא ע״י אתעדל״ת וכמ״ש באג״ה בד״ה ויעש דוד שם.
+
+And behold therefore, the concept of the drawn down revelation from a hidden state, whether it be through the *Yud* which *Olam Habah* was created from so that the souls may benefit, or be it *BY"A* which through the *Hey* was created so that revelations should be revealed through the *Hey* in *"BY"A*, to fulfill the pasuk 'The world is created with *Chesed*'. Also likewise this is the meaning of the interpretation (pasuk mentioned earlier) of the world's creation being termed בהבראם which shuffled reads באברהם 'with Avraham', meaning through an arousal from below (*it'aruta d'letata*). Also see what is written in *Igeret HaKodesh* on the *dibur hamatchil* ויעש דוד (mentioned earlier).
 ___
 
