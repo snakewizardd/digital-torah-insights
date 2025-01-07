@@ -31,7 +31,7 @@ Mark that it is יהוה who, having given you the sabbath, therefore gives you 
 
 
 > Explanation:
-    The *ma'amar* sets the tone of the discussion by pointing to a Torah verse and a Midrash. This is customary of Chassidic teachings, which always seek to find root within the traditional literature.
+    The *ma'amar* sets the tone of the discussion by pointing to a Torah verse and two Midrashim. This is customary of Chassidic teachings, which always seek to find root within the traditional literature. In this case we will focus on the Shabbat and its importance, highlighted specifically by the mentioning of the word 'See' in the beginning of the pasuk.
 
 !!! tip "Cont."
     וכ״ה בירושלמי ספ״ג דנדרים. הנה יש להבין למה אומרים בשבת קדשנו במצותיך דרך בקשה לעתיד כו׳ ובכל ברכות שבחול וגם בכל ברכות המצות אנו אומרים אשר קדשנו במצותיו שכבר קדשנו לעבר כו׳. אך הענין יובן ע״פ הקדמה להבין הטעם שנקרא התורה ומצות בשם דרך ה׳ כמ״ש דרכיה דרכי נועם כו׳.
