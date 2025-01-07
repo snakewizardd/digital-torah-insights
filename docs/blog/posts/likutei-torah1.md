@@ -123,7 +123,7 @@ And in another place it is explained that behold, all *hamshachot* (activities w
 
 1. [Source on Chabad.org](https://he.chabad.org/library/article_cdo/aid/5899143)
 
-
+## The *Tzimtzum* of the *Yud*
 
 !!! tip "Cont."
     ואין זה הצמצום העלם והסתר גמור אלא ע״ד לעולם ישנה אדם לתלמידו בדרך קצרה כו׳. וכמו בתשב״כ נרמז בקצרה כל מה שבא בתשבע״פ באורך שלכן נק׳ תשב״כ מוסר אביך ותשבע״פ נק׳ תורת אמך כמו טפת האב נכלל בה כל כח רמ״ח אברי הולד בדרך קצרה כו׳.
@@ -136,6 +136,66 @@ The Gemara asks: What is this baraita teaching us? The Gemara responds: As Rav H
 2. [Mishlei 1:8](https://www.sefaria.org/Proverbs.1.8?lang=bi&with=all&lang2=en) שְׁמַ֣ע בְּ֭נִי מוּסַ֣ר אָבִ֑יךָ וְאַל־תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃ 
 My son, heed the discipline of your father,
 And do not forsake the instruction of your mother;
+
+
+!!! tip "Cont."
+
+    ולכן נמשל בחי׳ זו לאות יו״ד. ומזה נמשך אח״כ ה׳ שהוא התפשטות וכמו ההתגלות מתשב״כ כשמתגלה בתשבע״פ באורך ורוחב כו׳. וכמ״ש מזה בבה״ז פ׳ אחרי ע״פ המאמר שם דע״ט ב׳ הביאו עלי כפרה יעו״ש.
+
+Therefore, this aspect is compared to the *Yud*. And from this is drawn out the *Hey* which is expansion, like the revelation from the written *Torah* as it is reveealed in the oral *Torah* at length and breadth. This is also what is written in the בה״ז פ׳ אחרי ע״פ המאמר שם דע״ט ב׳ הביאו עלי כפרה and one should read there for further clarification.
+
+!!! tip "Cont."
+    וזהו ענין ביו״ד נברא העולם הבא שבחי׳ עוה״ב זהו מה שכבר נמשך ונתגלה בבחי׳ השגה והוא בחי׳ ה׳ ומקור ושרש התהוות בחי׳ זו הוא ע״י היו״ד. ועמ״ש עוד מענין ביו״ד נברא העולם הבא בד״ה שחורה אני ונאוה אש שחורה. ובהיות כי היו״ד מתחלק אח״כ לכמה פרטי פרטיות נאמר כי בי״ה צור עולמים ביו״ד נוצר כל פרטי תענוגי הנשמות שבעוה״ב ובה׳ נוצר כל פרטי פרטיות התהוות הנבראים שלמטה כמ״ש בהבראם בה׳ בראם (עיין מזה באג״ה בד״ה ויעש דוד שם  ועמ״ש בת״א פ׳ לך לך בד״ה שרי אשתך כו׳ שרה שמה בטעם מה שלהיות הולדה לשרה הוא ע״י שלוקח מאתה כח היו״ד וניתן לה כח הה״א במקומו שהגם שלמעלה בהמשכה מאור א״ס באצילות הוא ע״י היו״ד דוקא שהוא בחי׳ צמצום כו׳ מ״מ למטה בההמשכה שמבחי׳ שרה שהוא מל׳ שמאירה בבי״ע הוא להפך ממש שאם היה האור מתצמצם היה חושך והעלם גמור כו׳. ועמ״ש כה״ג בביאור ע״פ כי תצא גבי וגלחה את ראשה בענין השערות שלמעלה הם קדושה עצומה י״ג ת״ד ושער רישיה כעמר נקא כו׳. ובנזיר קדש יהיה גדל פרע כו׳. משא״כ באשה שער באשה ערוה כו׳. כי השערות הם גם כן בחי׳ צמצום כו׳. ומכ״ז יובן גם כן כאן הטעם שהעולם הזה נברא בה״א דוקא ומזה יובן מ״ש לקמן שצריך להמשיך תמיד בחי׳ הה״א שנברא בו עוה״ז כדי שלא יהיה צמצום וחושך אלא בחי׳ התפשטות והרחבה שיהיה גילוי אלקות כו׳). מאין ליש ולא עולם הזה השפל דוקא אלא כל העולמות דבי״ע הנק׳ עולמות הנפרדים בע״ג ובכלל זה גם העולמות העליונים שהן בבחי׳ גבול השגה כו׳, ואין הפרש בין יו״ד לה״א אלא שביו״ד נברא עלמא דאתכסיא שהוא העולם הבא נהנין מזיו הנ״ל ובה״א נברא עלמא דאתגליא כו׳. הן העולמות שנתהוו מאין ליש ודבר כו׳. שנקרא עולם הזה להיותם עלמא דאתגליא לכן נק׳ עולם הזה פי׳ זה ע״ש בחי׳ הגילוי עד שיכול להורות עליו באצבע כו׳. כמ״כ נקרא בה״א נברא העולם הזה הענין הוא ע״ש בחי׳ עלמא דאתגליא שנק׳ זה (ואפ״ל עוד שנק׳ עולם הזה דהנה כתיב גם את זה לעומת זה עשה האלקים בקהלת סי׳ ז׳ י״ד. ובעוה״ז מעורב ב׳ הבחי׳ יחד שהרי הנפש האלקית מתלבשת בגוף ממשכא דחויא כו׳. ע״כ בו מעורב יחד ב׳ בחי׳ זה הנ״ל לכן נק׳ העולם הזה. ולכן ג״כ היום לעשותם דוקא ולהמשיך בחי׳ זה היינו מ״ש זה אלי ואנוהו משא״כ לע״ל ארז״ל שאין בהם לא זכות ולא חובה. בשבת פכ״ג דקנ״א ע״ב):
+
+And thus, this is the concept of the *Yud* creating *Olam HaBah*, as the concept of *Olam HaBah* is that which is already drawn out and revelead in the concept of understanding. This is the concept of God being the source and root of existence. This concept actualizes through the *Yud*. Delve deeper regarding what is written that through the *Yud* *Olam HaBah* is created in the *dibur ha'matchil* *Shechora Ani Ve'Naava, Esh Schechora*(1). And being that the *Yud* is broken down afterwards to many particular parts, it is said that 'the rock of the worlds is with *Yud-Keh*', as with the *Yud* is fashioned all of the specifics of the pleasures of the souls in *Olam HaBah* - and with the *Hey* is fashioned all of the specific details of existence in the lower realms. This is hinted to the the verse [homiletically] when it is says בהבראם meaning, with the *Hey* He created them. (2) 
+{ .annotate }
+
+1. [Source on Chabad.org](https://he.chabad.org/library/article_cdo/aid/5899031)
+2. [Bereshit 2:4](https://www.sefaria.org/Genesis.2.4?lang=bi&with=all&lang2=en) אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם׃ 
+Such is the story of heaven and earth when they were created. When God יהוה made earth and heaven—
+
+
+Note (from the Alter Rebbe): Look into what is written in *Igeret HaKodesh* in the *dibur ha'matchil* ויעש דוד (1) and in *Torah Or* פ׳ לך לך בד״ה שרי אשתך (2) where it is written that *Sarah* was able to become fertile because the power of the *Yud* was taken from her name and the power of the *Hey* was given to her in its place. This is even considering the fact that in the upper worlds the drawing down from the blessed *Ein Sof* in *Atzilut* is through the *Yud* specifically, as it [the *Yud*] is *tzimtzum*, nonetheless in the lower worlds, [especially] regarding to the concept of Sarah, which is *Malchut* which shines in *B'Y'A* (*Beriah*, *Yetzirah*, *Asiyah*), it is quite literally the opposite. For [in the lower levels] if the light (*or*) would contract itself there would be total darkness and concealment. Look into what is written in a similar vein in the explanation of the pasuk  כי תצא גבי וגלחה את ראשה (3) on the matter of the 'hairs' of the upper worlds being an extreme level of *kedusha* through the '13 strands of the beard' (as referred in the passuk of Daniel, 'His hairs were white like wool'(4)). See also the explanation about the *Nazir* referred to as *Kodesh* and who grows their hair  ובנזיר קדש יהיה גדל פרע כו׳ (5). This is not so with women, for women's hair is considered *ervah*. (6)This is because the hairs are also the concept of *tzimtzum*. And from all of this it is understood as well the reason why *Olam Ha'Zeh* was created with *Hey* specifically. And from that it is understood further (what is written later) that we must bring down constantly the concept of the *Hey* which created *Olam Ha'Zah* so that there should not be a *tzimtzum* and darkness, but rather expansion and spreading the revelation of Godliness (*elokut*).
+{ .annotate }
+
+1. [Source on Chabad.org](https://www.chabad.org/library/tanya/tanya_cdo/aid/7950/jewish/Epistle-5.htm)
+2. [Source on Chabad.org](https://he.chabad.org/library/article_cdo/aid/5899143)
+3. Passuk source [Devarim 21:12](https://www.sefaria.org/Deuteronomy.21.10-11?lang=bi&aliyot=0) כִּֽי־תֵצֵ֥א לַמִּלְחָמָ֖ה עַל־אֹיְבֶ֑יךָ וּנְתָנ֞וֹ יְהֹוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ וְשָׁבִ֥יתָ שִׁבְיֽוֹ׃ 
+When you [an Israelite warrior] take the field against your enemies, and your God יהוה delivers them into your power and you take some of them captive, --- [Source for Ma'amar](https://www.sefaria.org/Likkutei_Torah%2C_Ki_Teitzei.1?lang=bi)
+4. [Daniel 7:9](https://www.sefaria.org/Daniel.7.9?lang=bi) חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כׇרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ ׀ כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כׇּרְסְיֵהּ֙ שְׁבִבִ֣ין דִּי־נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק׃ 
+As I looked on,
+Thrones were set in place,
+And the Ancient of Days took His seat.
+His garment was like white snow,
+And the hair of His head was like lamb’s wool.
+His throne was tongues of flame;
+Its wheels were blazing fire.
+5. [Source for Ma'amar](https://he.chabad.org/library/article_cdo/aid/5898835#:~:text=וגם%20צ%D7%B4ל%20מ%D7%B4ש%20בנזיר%20ג%D7%B4כ%20לשון%20קדוש%20כמ%D7%B4ש,ויובן%20כל%20זה%20בהקדים%20להבין%20פי׳%20וענין%20קדוש.)
+6. [Mishnah Berura 75](https://www.sefaria.org/Mishnah_Berurah.75.2?lang=bi)
+
+*Continuing from before Note*: [This creation is] from Nothing (*ayin*) to Something (*yesh*). This refers not just to this particular lowly world, but rather to all of the worlds of BY"A (*Beriah*, *Yetzirah*, and *Asiyah*) which are referred to as worlds (*olamot*) which separate, namely those which possess limitations. Included in this are the most upper worlds since they are conceptually limited by understanding (*hasaga*). And there is no differentication between the *Yud* and the *Hey*, only in that the *Yud* created the hidden worlds (*Alma D'Itkasya*) which is *Olam Ha'Bah* where they [souls] benefit, and the *Hey* which creates the revealed world(s) (*alma d'itgalya*). These are the worlds which were created from *Ayin* to *Yesh* to become existing things. This is why it is called 'this world' (*Olam Ha'Zeh*'), given that it [they] is a world of revealing, thus it is called *zeh* because of the revelation, so much so that one can point with their finger. Similarly, it is said that with *Hey* this world (*Ola Ha'Zeh*) is created on account of the revelation that emerges.
+
+Note (from the Alter Rebbe): And one may say that it is called *Olam Ha'Zeh* for it is written in the passuk 'Behold God has made them opposite eachother' in Kohelet 7:14 (1)And in *Olam Ha'Zeh* there is a mixture of two concepts together: for the Godly soul is enclothed in the body, referred to as the 'skin of the snake'. (2) Therefore [in this world] it is a mixture of two concepts together (the spiritual and the physical), therefore it is called *Olam Ha'Zeh*. Therefore it is also written in the passuk 'and today you shall do them' (3) specifically [today] and to drawn down this concept, namely that which is mentioned in the pasuk 'This is God and I will honor Him'(4). This will be so in the future time (*le'atid lavo*) where there is 'no merit and no liability', as mentioned in Shabbat Chapter 23, 151b(5).
+{ .annotate }
+
+1. [Kohelet 7:14](https://www.sefaria.org/Ecclesiastes.7.14?lang=bi&with=all&lang2=en) בְּי֤וֹם טוֹבָה֙ הֱיֵ֣ה בְט֔וֹב וּבְי֥וֹם רָעָ֖ה רְאֵ֑ה גַּ֣ם אֶת־זֶ֤ה לְעֻמַּת־זֶה֙ עָשָׂ֣ה הָֽאֱלֹהִ֔ים עַל־דִּבְרַ֗ת שֶׁלֹּ֨א יִמְצָ֧א הָֽאָדָ֛ם אַחֲרָ֖יו מְאֽוּמָה׃ 
+So in a time of good fortune enjoy the good fortune; and in a time of misfortune, reflect: The one no less than the other was God’s doing; consequently, man may find no fault with Him.
+2. [Tikkunei Zohar 48b:7](https://www.sefaria.org/Tikkunei_Zohar.48b.7?lang=bi) תמן אחזי ליה 
+דגופא דבר נש בהאי עלמא איהו צרעת 
+ממשכא דחויא. 
+It is there at the bush that He showed him, 
+that the body of a person in this world is leprous, 
+from the skin of the snake.
+3. [Devarim 7:11](https://www.sefaria.org/Deuteronomy.7.11?lang=bi&aliyot=0) וְשָׁמַרְתָּ֨ אֶת־הַמִּצְוָ֜ה וְאֶת־הַֽחֻקִּ֣ים וְאֶת־הַמִּשְׁפָּטִ֗ים אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לַעֲשׂוֹתָֽם׃ {פ}
+Therefore, observe faithfully the Instruction—the laws and the rules—with which I charge you today.
+4. [Shemot 7:2](https://www.sefaria.org/Exodus.15.2?lang=bi&aliyot=0) עׇזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽיְהִי־לִ֖י לִֽישׁוּעָ֑ה        זֶ֤ה אֵלִי֙ וְאַנְוֵ֔הוּ        אֱלֹהֵ֥י אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃         
+יהוה is my strength and might; 
+He is become my deliverance.
+This is my God and I will enshrine Him;
+The God of my father’s [house], and I will exalt Him.
+5. [Shabbat 151b](https://www.sefaria.org/Shabbat.151b.11?lang=bi&lookup=נְיָא%2C&with=Lexicon&lang2=en) תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: עֲשֵׂה עַד שֶׁאַתָּה מוֹצֵא, וּמָצוּי לְךָ, וְעוֹדְךָ בְּיָדֶךָ. וְאַף שְׁלֹמֹה אָמַר בְּחׇכְמָתוֹ: ״וּזְכוֹר אֶת בּוֹרְאֶיךָ בִּימֵי בְּחוּרוֹתֶיךָ עַד [אֲשֶׁר] (שֶׁ)לֹא יָבֹאוּ יְמֵי הָרָעָה״ — אֵלּוּ יְמֵי הַזִּקְנָה, ״וְהִגִּיעוּ שָׁנִים אֲשֶׁר תֹּאמַר אֵין לִי בָהֶם חֵפֶץ״ — אֵלּוּ יְמֵי הַמָּשִׁיחַ, שֶׁאֵין בָּהֶם לֹא זְכוּת וְלֹא חוֹבָה. 
+It was also taught in a baraita with regard to the appreciation of life: Rabbi Shimon ben Elazar says: Perform mitzvot while you still find opportunities, and you have the financial means, and you are still under your own control. And King Solomon also said, in his wisdom: “And remember your Creator in the days of your youth, before the evil days come and the years arrive when you will say: I have no desire for them” (Ecclesiastes 12:1). Rabbi Shimon ben Elazar explains: “The evil days”; these are the days of old age. “And the years arrive when you will say: I have no desire for them”; these are the days of Messiah, in which there is neither merit nor liability.
+
 
 ___
 
