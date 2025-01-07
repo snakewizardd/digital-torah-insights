@@ -223,5 +223,67 @@ It was also taught in a baraita with regard to the appreciation of life: Rabbi S
     והנה בחי׳ גילוי המשכה זו מן ההעלם בין ביו״ד שנברא בו העוה״ב להיות נהנין מזיו כו׳. בין בי״ע שבה״א בראם כו׳ שכדי להמשיך גילוי הה״א בבי״ע להיות עולם חסד יבנה וכמ״ש בהבראם באברהם הוא ע״י אתעדל״ת וכמ״ש באג״ה בד״ה ויעש דוד שם.
 
 And behold therefore, the concept of the drawn down revelation from a hidden state, whether it be through the *Yud* which *Olam Habah* was created from so that the souls may benefit, or be it *BY"A* which through the *Hey* was created so that revelations should be revealed through the *Hey* in *"BY"A*, to fulfill the pasuk 'The world is created with *Chesed*'. Also likewise this is the meaning of the interpretation (pasuk mentioned earlier) of the world's creation being termed בהבראם which shuffled reads באברהם 'with Avraham', meaning through an arousal from below (*it'aruta d'letata*). Also see what is written in *Igeret HaKodesh* on the *dibur hamatchil* ויעש דוד (mentioned earlier).
+
+!!! tip "Cont. "
+    והוא רק ע״י תומ״צ דוקא כמ״ש ויניחהו בג״ע לעבדה ולשמרה לעבדה זו רמ״ח מ״ע כו׳. דהיינו שנתוסף גילוי בחי׳ עונג העליון בג״ע ע״י רמ״ח מ״ע דוקא. וזהו כל הנשמה תהלל י״ה פי׳ תהלל לשון שבח ולשון הארה כמ״ש בהלו נרו. היינו שהנשמה תמשיך אור וגילוי שם י״ה שיהיה גילוי והמשכת היו״ד בעוה״ב והמשכת הה״א בעוה״ז. ולכן נקראת הנשמה נר הוי׳ שהיא בחי׳ נר הממשיך שם הוי׳ להיות ביה הויה צור עולמים וכמ״ש מזה בת״א פ׳ מקץ בד״ה רני ושמחי בת.
+
+And this is only through the *Torah* and *mitzvot* specifically. As it is written 'And He placed him in *Gan Eden* to work it and protect it'(1) - these are the 248 positive *mitzvot*. Being that the revelation of the *oleg ha'elyon* is increased in *Gan Eden* through the 248 positive *mitzvot* specifically. And this is the interpreation of 'and every *neshama* shall praise *Yud-Keh*'(2), where the word תהלל represents praise and enlightenment, as in the pasuk 'and his lamp shone'(3). This means that the *neshama* draws down light and the revelation of *Yud-Keh* so that it should be revealed, and the drawing down of the *Yud* in *Olam HaBah* and the drawing of the *Hey* into *Olam HaZeh*. And therefore, the *neshama* is called the 'light of *Havaya*'(4) which is the concept of a candle which draws down the name *Havaya* so that it should create and be the 'rock of the worlds' as explained in *Torah Or* Parashat Mikeitz in the *dibur hamatchil* 'Rani Ve'Simchi Bat'.(5)
+{ .annotate }
+
+1. [Bereshit 2:15](https://www.sefaria.org/Genesis.2.15-16?lang=bi&with=Berakhot&lang2=en) וַיִּקַּ֛ח יְהֹוָ֥ה אֱלֹהִ֖ים אֶת־הָֽאָדָ֑ם וַיַּנִּחֵ֣הוּ בְגַן־עֵ֔דֶן לְעׇבְדָ֖הּ וּלְשׇׁמְרָֽהּ׃ 
+God יהוה settled the Human in the garden of Eden, to till it and tend it. 
+2. [Tehillim 150:6](https://www.sefaria.org/Psalms.150.6?lang=bi) כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃ 
+Let all that breathes praise the LORD.
+Hallelujah.
+3. [Iyov 29:3](https://www.sefaria.org/Job.29.3?lang=bi) בְּהִלּ֣וֹ נֵ֭רוֹ עֲלֵ֣י רֹאשִׁ֑י לְ֝אוֹר֗וֹ אֵ֣לֶךְ חֹֽשֶׁךְ׃ 
+When His lamp shone over my head,
+When I walked in the dark by its light,
+4. [Mishlei 20:27](https://www.sefaria.org/Proverbs.20.27?lang=bi&with=all&lang2=en) נֵ֣ר יְ֭הֹוָה נִשְׁמַ֣ת אָדָ֑ם חֹ֝פֵ֗שׂ כׇּל־חַדְרֵי־בָֽטֶן׃ 
+The lifebreath of man is the lamp of the LORD
+Revealing all his inmost parts.
+5. [Source on Wikitext](https://he.wikisource.org/wiki/תורה_אור_(חב%22ד)/מקץ)
+
+
+!!! tip "Cont."
+    והנה הטעם שההמשכה זו הוא ע״י מצות דוקא יובן בהיות ששרש המצות הוא בבחי׳ פנימית העונג העליון כמ״ש בתורה ואהיה אצלו כו׳ שעשועים פי׳ בחי׳ שעשועי המלך בעצמותו כמ״ש במ״א, שהוא ענין עונג העליון העצמי הנק׳ מקור כל התענוגים כו׳. בחינת כי עמך מקור חיים כו׳ הנ״ל. אך כדי שיתגלה עונג זה מן ההעלם לגילוי בנשמות בגן עדן וכדומה והיינו מ״ש ושעשועי את בני אדם כו׳ אין זה אלא על ידי התורה והמצות באמרו אשר קדשנו במצותיו הן בחי׳ שעשועים עצמיים כו׳ ובזאת הכוונה דברכה של המצוה נמשך ובא לידי גילוי עונג העליון, וזהו העוסק בתורה לשמה לשם התורה פי׳ שממשיך בחי׳ השעשועים העצמיים שבתורה לידי גילוי בדבר הלכה וע״כ נאמר על התורה דרכיה דרכי נעם וגו׳ במשלי סי׳ ג׳ י״ז, פי׳ נועם הוא מתיקות ונועם ה׳ הוא בחי׳ עונג העליון העצמי בחי׳ כי עמך מקור חיים (ועיין בפרדס ערך נעם ובזח״ג פ׳ שלח לך דקס״א ע״ב ע״פ ועתה יגדל נא כח אד׳ פי׳ נעם ה׳ הוא ענין כח אד׳ הכח הנמשך מע״ק סתימא דכל סתימין כו׳ ע״ש ועמ״ש בד״ה ועתה יגדל נא. ועיין במא״א אות נו״ן סעיף י״ג)  והתורה נק׳ דרך שבה דרכי נתיבות והילוך המשכות נועם ה׳ מההעלם לידי גילוי, עד״מ הדרך שבה הולכים ממקום למקום כו׳, ופי׳ דרכי ל׳ רבים. הנה הפרדס ערך דרכים פי׳ שהם חג״ת והן בחי׳ תורה ועבודה וגמילות חסדים שהן כללות התורה.
+
+And behold, the reason that the drawing down [of divine light] is through the *mitzvot* specifically is understood [as being that] the source of the *mitzvot* is in the inner aspect (*penimiyut*) of the *oneg ha'elyon* as it is written 'And I will be for Him as a plaything'(1), where the aspect of plaything (*sha'ashuim*) represents the 'enjoyment of the king in His essence', as explained elsewhere - for it is the essential *oneg ha'elyon* which is called the 'source of all pleasures' (מקור כל התענוגים ). This is also the aspect of 'For with you is the source of life' (brought earlier). However, in order for this *oneg* to be revealed from a hidden state to a revealed state for the *neshamot* in *Gan Eden* and likewise what is written in the [next] pasuk 'And to be a plaything for humans'(2)   - this is only through the *Torah* and *mitzvot*. Thus when one says אשר קדשנו במצותיו which represent the innermost *sha'ashuim* - and has this *kavanah* (intention) in the *beracha* of a *mitzvah*, through this the *oneg ha'elyon* is drawn down and brought to light. And this is the meaning of one who 'occupies themselves with the *Torah* for its own sake'(3) meaning that they draw down the inner *sha'ashuim* which are in the *Torah* to a revealed state through *dvar Halacha*. And therefore it is said about the *Torah* that its 'ways are pleasant' in Mishlei 3:17(4), where the meaning of 'pleasant' is 'sweetness', and the 'pleasant of *Hashem*'(5) is the aspect of the inner *oneg ha'elyon*, the aspect of 'with You is the source of life'.
+{ .annotate }
+
+1. [Mishlei 8:30](https://www.sefaria.org/Proverbs.8.30?lang=bi) וָאֶהְיֶ֥ה אֶצְל֗וֹ אָ֫מ֥וֹן וָאֶהְיֶ֣ה שַׁ֭עֲשׁוּעִים י֤וֹם ׀ י֑וֹם מְשַׂחֶ֖קֶת לְפָנָ֣יו בְּכׇל־עֵֽת׃ 
+I was with Him as a confidant,
+A source of delight every day,
+Rejoicing before Him at all times,
+2. [Mishlei 8:31](https://www.sefaria.org/Proverbs.8.31?lang=bi) מְ֭שַׂחֶקֶת בְּתֵבֵ֣ל אַרְצ֑וֹ וְ֝שַׁעֲשֻׁעַ֗י אֶת־בְּנֵ֥י אָדָֽם׃ {פ}
+Rejoicing in His inhabited world,
+Finding delight with mankind.
+3. [Avot 6:1](https://www.sefaria.org/Pirkei_Avot.6.1?lang=bi&with=all&lang2=en) שָׁנוּ חֲכָמִים בִּלְשׁוֹן הַמִּשְׁנָה, בָּרוּךְ שֶׁבָּחַר בָּהֶם וּבְמִשְׁנָתָם: 
+רַבִּי מֵאִיר אוֹמֵר כָּל הָעוֹסֵק בַּתּוֹרָה לִשְׁמָהּ, זוֹכֶה לִדְבָרִים הַרְבֵּה. וְלֹא עוֹד אֶלָּא שֶׁכָּל הָעוֹלָם כֻּלּוֹ כְדַי הוּא לוֹ. נִקְרָא רֵעַ, אָהוּב, אוֹהֵב אֶת הַמָּקוֹם, אוֹהֵב אֶת הַבְּרִיּוֹת, מְשַׂמֵּחַ אֶת הַמָּקוֹם, מְשַׂמֵּחַ אֶת הַבְּרִיּוֹת. וּמַלְבַּשְׁתּוֹ עֲנָוָה וְיִרְאָה, וּמַכְשַׁרְתּוֹ לִהְיוֹת צַדִּיק וְחָסִיד וְיָשָׁר וְנֶאֱמָן, וּמְרַחַקְתּוֹ מִן הַחֵטְא, וּמְקָרַבְתּוֹ לִידֵי זְכוּת, וְנֶהֱנִין מִמֶּנּוּ עֵצָה וְתוּשִׁיָּה בִּינָה וּגְבוּרָה, שֶׁנֶּאֱמַר (משלי ח) לִי עֵצָה וְתוּשִׁיָּה אֲנִי בִינָה לִי גְבוּרָה. וְנוֹתֶנֶת לוֹ מַלְכוּת וּמֶמְשָׁלָה וְחִקּוּר דִּין, וּמְגַלִּין לוֹ רָזֵי תוֹרָה, וְנַעֲשֶׂה כְמַעְיָן הַמִּתְגַּבֵּר וּכְנָהָר שֶׁאֵינוֹ פוֹסֵק, וֶהֱוֵי צָנוּעַ וְאֶרֶךְ רוּחַ, וּמוֹחֵל עַל עֶלְבּוֹנוֹ, וּמְגַדַּלְתּוֹ וּמְרוֹמַמְתּוֹ עַל כָּל הַמַּעֲשִׂים:   
+The sages taught in the language of the Mishnah. Blessed be He who chose them and their teaching. Rabbi Meir said: Whoever occupies himself with the Torah for its own sake, merits many things; not only that but he is worth the whole world. He is called beloved friend; one that loves God; one that loves humankind; one that gladdens God; one that gladdens humankind. And the Torah clothes him in humility and reverence, and equips him to be righteous, pious, upright and trustworthy; it keeps him far from sin, and brings him near to merit. And people benefit from his counsel, sound knowledge, understanding and strength, as it is said, “Counsel is mine and sound wisdom; I am understanding, strength is mine” (Proverbs 8:14). And it bestows upon him royalty, dominion, and acuteness in judgment. To him are revealed the secrets of the Torah, and he is made as an ever-flowing spring, and like a stream that never ceases. And he becomes modest, long-suffering and forgiving of insult. And it magnifies him and exalts him over everything.
+4. [Mishlei 3:17](https://www.sefaria.org/Proverbs.3.17?lang=bi) דְּרָכֶ֥יהָ דַרְכֵי־נֹ֑עַם וְֽכׇל־נְתִ֖יבוֹתֶ֣יהָ שָׁלֽוֹם׃ 
+Her ways are pleasant ways,
+And all her paths, peaceful.
+5. [Tehillim 90:17](https://www.sefaria.org/Psalms.90.17?lang=bi&with=all&lang2=en) וִיהִ֤י ׀ נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כּוֹנְנָ֥ה עָלֵ֑ינוּ וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כּוֹנְנֵֽהוּ׃ {פ}
+May the favor of the Lord, our God, be upon us;
+let the work of our hands prosper,
+O prosper the work of our hands!
+
+Note (from the Alter Rebbe): Look into the *Pardes* in ערך נעם (1)and the *Zohar* Part 3, Parashat Shelach Page 161b on the *pasuk* ועתה יגדל נא כח אד׳ (2) whose interpretation is that the 'pleasant of *Hashem* is the matter of the power of *Aleph-Dalet-Nun-Yud*, the power that is drawn from *Atikah Kadisha*, the 'hidden of all hidden'(3). Also look into what is written in the *dibur hamatchil*  ועתה יגדל נא (4) and look into what is written in א״א אות נו״ן סעיף י״ג.  
+{ .annotate }
+
+1. [Pardes Rimmonim - Search for נעם](https://www.sefaria.org/search?q=נעם&tab=text&tpathFilters=Kabbalah%2FRamak%2FPardes%20Rimmonim&tvar=1&tsort=relevance&svar=1&ssort=relevance)
+2. [Zohar Chelek Gimmel - Shelach](https://www.sefaria.org/Zohar%2C_Sh'lach.11.91?lang=bi&with=all&lang2=en) תָּא חֲזֵי, כַּד אַנְהִיר עַתִּיקָא סְתִימָא בְּמוֹחָא, וּמוֹחָא אַנְהִיר לְלִבָּא, בְּדֶּרֶך נֹעַם יְיָ. וְהָא אוֹקִימְנָא, וְדָא הוּא כֹּחַ יְיָ. הַהוּא חֵילָא דְּאָתֵי מֵעַתִּיקָא קַדִּישָׁא. סְתִימָא דְּכָל סְתִימִין. יִגְדַּל נָא, דְּיִּתְרְבֵּי וְיִסְגֵּי לְעֵילָּא לְעֵילָּא. וְיִתְנְגִיד וְיִתְמְשַׁךְ לְתַתָּא. כַּאֲשֶׁר דִּבַּרְתָּ, כְּמָה דְּאוּקְמוּהָ. לֵאמֹר, לְמֵילַף מֵהָכָא כָּל דָּרִין בַּתְרָאִין, לְעָלַם וּלְעָלְמֵי עָלְמִין. לֵאמֹר, לְמֵימַר לְדָא בְּשַׁעֲתָא דְּעַקְתָּא. לְמֵימַר דָּא, בְּשַׁעֲתָא דִּרְוָוחָא. וּמַאי הוּא. יְיָ אֶרֶךְ אַפַּיִם וְגוֹ', וְהָא אוֹקִימְנָא מִלֵּי.
+
+3. [Zohar Yitro](https://www.sefaria.org/Zohar%2C_Yitro.27.468?ven=hebrew|Vocalized_Zohar,_Israel_2013&lang=bi) תָּאנָא, בְּהַאי יוֹמָא, כָּל נִשְׁמָתֵיהוֹן דְּצַדִּיקַיָּיא, מִתְעַדְּנִין בְּתַפְנוּקֵי עַתִּיקָא קַדִּישָׁא, סְתִימָא דְּכָל סְתִימִין. וְרוּחָא חֲדָא מֵעִנּוּגָא דְּהַהוּא עַתִּיקָא קַדִּישָׁא מִתְפַּשְׁטָא (ההוא מתפשט) בְּכֻלְּהוּ עָלְמִין, וְסַלְּקָא וְנַחְתָּא, וּמִתְפַּשְּׁטָא לְכֻלְּהוּ בְּנֵי קַדִּישִׁין, לְכֻלְּהוּ נְטוּרֵי אוֹרַיְיתָא, וְנַיְיחִין בְּנַיְיחָא שְׁלִים, מִתְנְשֵׁי מִכֻּלְּהוּ, כָּל רוּגְזִין, כָּל דִּינִין, וְכָל פּוּלְחָנִין קָשִׁין. הֲדָא הוּא דִכְתִיב, (ישעיהו י״ד:ג׳) בְּיוֹם הִנִּיחַ יְיָ' לָךְ מֵעָצְבְּךָ וּמִרָגְזֶךָ וּמִן הָעֲבוֹדָה הַקָּשָׁה.
+4. [Source for Ma'amar on Chabad.org](https://he.chabad.org/library/article_cdo/aid/5898888) 
+
+And the *Torah* is called a 'path' (pasuk mentioned earlier), for on it is the direct path and way to drawn down the 'pleasant of *Hashem*' from a hidden to revealed state. By analogy, this is compared to a path which is treaded upon to go from place to place, and in the *pasuk* it is called 'ways' דרכי which is in plural tense. And behold the *Pardes* in ערך דרכים (1) explained that they are *ChGaT* (*Chesed*, *Gevurah*, and *Tiferet*) and they are the aspect of the '*Torah*, *Avodah*, and *Gemilut Chasadim*' (*Torah*, divine service, and acts of kindness)(2) which are the general principles (*klalot* (with a *kaf*)) of the *Torah*.
+{ .annotate }
+
+1. [Pardes Rimmonim - Search for דרכים](https://www.sefaria.org/search?q=דרכים&tab=text&tpathFilters=Kabbalah%2FRamak%2FPardes%20Rimmonim&tvar=1&tsort=relevance&svar=1&ssort=relevance)
+2. [Avot 1:2](https://www.sefaria.org/Pirkei_Avot.1.2?lang=bi) שִׁמְעוֹן הַצַּדִּיק הָיָה מִשְּׁיָרֵי כְנֶסֶת הַגְּדוֹלָה. הוּא הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים:  
+Shimon the Righteous was one of the last of the men of the great assembly. He used to say: the world stands upon three things: the Torah, the Temple service, and the practice of acts of piety.
+
+
 ___
 
