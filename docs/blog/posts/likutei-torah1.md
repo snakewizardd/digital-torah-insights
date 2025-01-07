@@ -45,14 +45,14 @@ Her ways are pleasant ways,
 And all her paths, peaceful.
 
 > Explanation:
-    The *ma'amar* further refers to the Yerushalmi Talmud as backing for the source that Shabbat is corresponding to all the rest of the *mitzvot*. However, we now will pivot to the crux of the discussion of the *ma'amar*, which is directed as a understanding of the concept of the *nusach haberachot*. The specific *nusach* on *Shabbat* leads to a more fuller understanding of why the *Torah* and *mitzvot* are referred to as 'paths' or 'ways'.
+    The *ma'amar* further refers to the Yerushalmi Talmud as backing for the source that Shabbat is corresponding to all the rest of the *mitzvot*. However, we now will pivot to the crux of the discussion of the *ma'amar*, which is directed as a understanding of the concept of the *nusach haberachot*. The specific *nusach* on *Shabbat* leads to a fuller understanding of why the *Torah* and *mitzvot* are referred to as 'paths' or 'ways'.
 
 ## The World To Come Is Created with Yud
 
 !!! tip "Cont."
     וכן ושמרו דרך הוי׳ כו׳. דהנה כתיב כי בי״ה ה׳ צור עולמים ביו״ד נברא העוה״ב כידוע. ויש להבין איך יתכן שום ציור אות למעלה כמו ציור אות יו״ד שבו נברא כו׳. שהרי אין שם גשם צורה ח״ו. אך הנה ידוע דביו״ד מאמרות נברא העולם כו׳.
 
-Another *pasuk* is quoted, "And so, keep the ways of God" (1). Another *pasuk* is brought down "With Yud-Keh HASHEM the Rock of World" (2), interpreted to mean that with the *Yud* the World-To-Come was created. It is necessary to understand how it is possible that the appearance of any letter in the upper worlds can exist, like the letter *Yud* by which it was created - as above there is no physicality or appearances (ח״ו). But however, it is brought down that with 10 (Yud) statements the world was created.
+Another *pasuk* is quoted, "And so, keep the ways of God" (1). Another *pasuk* is brought down "With Yud-Keh HASHEM the Rock of World" (2), interpreted to mean that with the *Yud* the World-To-Come was created. It is necessary to understand how it is possible that the appearance of any letter in the upper worlds can exist, like the letter *Yud* by which it was created - as above there is no physicality or appearances (ח״ו). But however, it is brought down that with 10 (Yud) statements the world was created(3).
 { .annotate}
 
 1. [Bereshit 18:19](https://www.sefaria.org/Genesis.18.19-20?lang=bi&with=all&lang2=en) כִּ֣י יְדַעְתִּ֗יו לְמַ֩עַן֩ אֲשֶׁ֨ר יְצַוֶּ֜ה אֶת־בָּנָ֤יו וְאֶת־בֵּיתוֹ֙ אַחֲרָ֔יו וְשָֽׁמְרוּ֙ דֶּ֣רֶךְ יְהֹוָ֔ה לַעֲשׂ֥וֹת צְדָקָ֖ה וּמִשְׁפָּ֑ט לְמַ֗עַן הָבִ֤יא יְהֹוָה֙ עַל־אַבְרָהָ֔ם אֵ֥ת אֲשֶׁר־דִּבֶּ֖ר עָלָֽיו׃ 
@@ -60,6 +60,9 @@ For I have singled him out, that he may instruct his children and his posterity 
 2. [Yeshayahu 26:4](https://www.sefaria.org/Isaiah.26.4?lang=bi&with=all&lang2=en) בִּטְח֥וּ בַֽיהֹוָ֖ה עֲדֵי־עַ֑ד כִּ֚י בְּיָ֣הּ יְהֹוָ֔ה צ֖וּר עוֹלָמִֽים׃ 
 Trust in  GOD—for ever and ever,
 For in Yah—GOD—you have an everlasting Rock.
+3. [Avot Chapter 6](https://www.sefaria.org/Pirkei_Avot.5.1?lang=bi) בַּעֲשָׂרָה מַאֲמָרוֹת נִבְרָא הָעוֹלָם. וּמַה תַּלְמוּד לוֹמַר, וַהֲלֹא בְמַאֲמָר אֶחָד יָכוֹל לְהִבָּרְאוֹת, אֶלָּא לְהִפָּרַע מִן הָרְשָׁעִים שֶׁמְּאַבְּדִין אֶת הָעוֹלָם שֶׁנִּבְרָא בַעֲשָׂרָה מַאֲמָרוֹת, וְלִתֵּן שָׂכָר טוֹב לַצַּדִּיקִים שֶׁמְּקַיְּמִין אֶת הָעוֹלָם שֶׁנִּבְרָא בַעֲשָׂרָה מַאֲמָרוֹת:   
+With ten utterances the world was created. And what does this teach, for surely it could have been created with one utterance? But this was so in order to punish the wicked who destroy the world that was created with ten utterances, And to give a good reward to the righteous who maintain the world that was created with ten utterances.
+
 
 > Explanation:
     The *ma'amar* quotes an additional *pasuk* to demonstrate that the *mitzvot* are referred to as the 'ways of God'. Additional *pesukim* are brought to introduce the concept of God creating the world(s) with the power of speech, and specifically with letters. This is at first glance difficult to comprehend, as there are no letters or appearances of physicality in the upper worlds.
