@@ -284,6 +284,33 @@ And the *Torah* is called a 'path' (pasuk mentioned earlier), for on it is the d
 2. [Avot 1:2](https://www.sefaria.org/Pirkei_Avot.1.2?lang=bi) שִׁמְעוֹן הַצַּדִּיק הָיָה מִשְּׁיָרֵי כְנֶסֶת הַגְּדוֹלָה. הוּא הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים:  
 Shimon the Righteous was one of the last of the men of the great assembly. He used to say: the world stands upon three things: the Torah, the Temple service, and the practice of acts of piety.
 
+!!! tip "Cont. "
+    וע״ז ארז״ל האשה נקנית בשלשה דרכים, האשה היא כנס״י. בכסף זהו גמ״ח. ובשטר זהו אותיות התורה. ובביאה זהו ענין עבודה שהוא קרבנות קירוב ויחוד המדרגות כו׳. ועכשיו תפלה היא במקום קרבנות ח״י ברכאן דצלותא כנגד ח״י חוליות השדרה שדרך הם נמשך השפע מהמוח כו׳, אך דרך פרט כל מצוה היא בחי׳ דרך להמשכת נועם הוי׳. פי׳ נועם הוי׳ שבחי׳ נועם ותענוג עליון נמשך ע״י צמצום היו״ד והתפשטות הה״א והמשכה שזהו ענין שם הוי׳ וכנ״ל בענין ביו״ד נברא העוה״ב כו׳.
+
+And about this *Razal* (our Rabbis of blessed memory) said that 'a woman is acquired in three ways'(1), where [midrashically] the 'woman' represents *Knessset Yisrael* (the congregation of *Israel*). With *kesef* (2)(money) represents *Gemilut Chasadim* - with *shtar* (a document) represents the letters of the *Torah* - with *biah* (copulation) represents the *Avodah* which is the *korbanot* (offerings) which represent closeness (*kiruv*) and unity in the levels. And now *Tefilah* (prayer) is in place of the *korbanot* (3), where the '18 *berachot* are instead of the 18 spinal bones' for through them [the spinal bones] are drawn down energy from the brain. But specifically through the particulars of every *mitzvah* is the aspect of the 'path' to drawn down the 'pleasant of *Hashem*'. The interpretation of 'pleasant of *Hashem*' is the aspect of the pleasure and *oneg ha'elyon* that is drawn down through the *tzimtzum* of the *Yud* and the espansion of the *Hey* - and this drawing down is the concept of the name *Havaya*, and as mentioned earlier the aspect of the *Yud* creating *Olam HaBah*.
+{ .annotate }
+
+
+
+1. [Mishnah Kiddushin 1:1](https://www.sefaria.org/Mishnah_Kiddushin.1.1?lang=bi&with=all&lang2=en) הָאִשָּׁה נִקְנֵית בְּשָׁלשׁ דְּרָכִים, וְקוֹנָה אֶת עַצְמָהּ בִּשְׁתֵּי דְרָכִים. נִקְנֵית בְּכֶסֶף, בִּשְׁטָר, וּבְבִיאָה. בְּכֶסֶף, בֵּית שַׁמַּאי אוֹמְרִים, בְּדִינָר וּבְשָׁוֶה דִינָר. וּבֵית הִלֵּל אוֹמְרִים, בִּפְרוּטָה וּבְשָׁוֶה פְרוּטָה. וְכַמָּה הִיא פְרוּטָה, אֶחָד מִשְּׁמֹנָה בָאִסָּר הָאִיטַלְקִי. וְקוֹנָה אֶת עַצְמָהּ בְּגֵט וּבְמִיתַת הַבָּעַל. הַיְבָמָה נִקְנֵית בְּבִיאָה. וְקוֹנָה אֶת עַצְמָהּ בַּחֲלִיצָה וּבְמִיתַת הַיָּבָם:
+2. See above annotation for full Mishnah
+3. [Hoshea 14:3](https://www.sefaria.org/Hosea.14.3?ven=hebrew|Tanach_with_Ta%27amei_Hamikra&lang=bi&with=all&lang2=en) קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהֹוָ֑ה אִמְר֣וּ אֵלָ֗יו כׇּל־תִּשָּׂ֤א עָוֺן֙ וְקַח־ט֔וֹב וּֽנְשַׁלְּמָ֥ה פָרִ֖ים שְׂפָתֵֽינוּ׃ 
+Take words with you
+And return to  GOD.
+Say:
+“Forgive all guilt
+And accept what is good;
+Instead of bulls we will pay
+[The offering of] our lips.
+
+
+!!! tip "Cont. "
+    והיינו ע״י כל מצוה. וביאור הדבר הנה יש לבאר עוד פי׳ כי עמך מקור חיים פי׳ עמך אינו מהותו ועצמותו ממש כ״א בחי׳ שמו ית׳ הנק׳ אור א״ס שהוא בחי׳ עמך כלול ובטל בך כאור השמש הכלול תוך עצם השמש כמ״ש בס׳ ש״ב ח״ב פ״ג.
+
+And [the above is thus] through every *mitzvah*. And the explanation of the matter is [incumbent on us to] further understand the *pasuk* 'for with You is the source of life', where the explanation of 'with You' is not His essence and literal inner aspect, but rather the aspect of his blessed name, which is called *Or Ein Sof* (the infinite light) which is the aspect of 'with You', meaning engulfed and nullified in You, like how the light of the sun is encompassed in the essence of the sun, as mentioned in the *Sefer Shel Benonim* Part 2, Chapter 3(1).
+{ .annotate }
+
+1. [Sefer Tanya - Shaar HaYichud VeHaEmunah Chapter 3](https://www.chabad.org/library/tanya/tanya_cdo/aid/7989/jewish/Chapter-3.htm) 
 
 ___
 
