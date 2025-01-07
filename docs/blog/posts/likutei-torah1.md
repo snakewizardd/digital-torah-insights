@@ -312,5 +312,10 @@ And [the above is thus] through every *mitzvah*. And the explanation of the matt
 
 1. [Sefer Tanya - Shaar HaYichud VeHaEmunah Chapter 3](https://www.chabad.org/library/tanya/tanya_cdo/aid/7989/jewish/Chapter-3.htm) 
 
+!!! tip "Cont. "
+    ובחי׳ זו נק׳ מקור חיים היינו מקור התענוגים וכנודע שעתיק הוא מקור התענוגים והוא בחי׳ אור א״ס וכמ״ש במ״א. ופי׳ מקור התענוגים שאינו כמו התענוג למטה שהוא נמשך מדבר שחוץ ממנו. כמו ממאכל ערב או מהשגת דבר חכמה. מה שאין כן למעלה הרי אין שום דבר חוץ ממנו יתברך כלל וא״כ התענוג עליון אינו כ״א ע״ד שמציאותו מעצמותו הרי אין דוגמתו כלל בתענוגים שבעולם ואינן מערך וסוג שלו כלל לכן בחי׳ זהו גבוה למעלה מעלה אפילו מחכמה עילאה כי גם בחכמה יש הרכבת ב׳ בחי׳ החכמה והתענוג שיש בהחכמה. א״כ אין תענוג זה שבחכמה ערך כלל לעצם התענוג שהוא פשוט בתכלית הפשיטות.
+
+And this aspect is called the 'source of Life', being the source of the pleasure and as is known that *Atik* is the source of the pleasure, and it is the aspect of the *Or Ein Sof* as is explained elsewhere. And the interpretation of the 'source of pleasures' is that it is not like pleasure in the lower realms which emanates from something external from itself, like with tasty foods or from a piece of wisdom. This is not so in the upper realms where there is nothing separate from His blessed self at all - and if so the upper pleasure is none other than existence from His essence. There is no comparison to this in any pleasures of the world(s) and is not measurable or in the category of 'Him' at all. Therefore this aspect is extremely lofty, even moreso than supernal *Chochmah*, for even in *Chochmah* is a composition of two aspects - *Chochmah* and the *taanug* (pleasure) in *Chochmah*. Therefore this *taanug* in *Chochmah* is not comparable at all to the essence of *taanug* which is simple with the epitome of simplicity.
+
 ___
 
