@@ -15,7 +15,7 @@ The intention behind this project is to share Torah insights. Any issues with tr
 ___
 
 #### Latest Blog Posts:  
-- :new: [Likkutei Torah Parashat Beshalach](blog/posts/likutei-torah1.md)  
+- :new: [Likkutei Torah Parashat Beshalach](likutei-torah1.md)  
 
 
 
