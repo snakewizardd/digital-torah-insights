@@ -14,7 +14,7 @@ hide:
 The intention behind this project is to share Torah insights. Any issues with translation or interpretation lie solely with the publisher of this website. Please provide feedback on the posts if any errors are found or if you have any insights to share.
 ___
 
-#### Latest Blog Posts:  
+#### Latest Posts:  
 - :new: [Likkutei Torah Parashat Beshalach](likutei-torah1.md)  
 
 
